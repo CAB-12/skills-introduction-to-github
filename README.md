@@ -6,7 +6,7 @@
 ![](https://github.com/CAB-12/skills-introduction-to-github/actions/workflows/3-open-a-pull-request.yml/badge.svg)
 ![](https://github.com/CAB-12/skills-introduction-to-github/actions/workflows/4-merge-your-pull-request.yml/badge.svg)
 
-_Get started using GitHub in less than an hour._
+_Get started using GitHub in less than an hour if youf ind your way !._
 
 ## Welcome
 
